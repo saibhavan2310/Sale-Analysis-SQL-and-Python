@@ -1,4 +1,4 @@
-# Sale-Analysis-SQL-and-Python
+# Sale-Analysis-SQL-Python-POWER BI
 
 Data Analysis Summary 📊
 In this project, we dove deep into retail sales data to uncover valuable insights for business optimization. 📈 The dataset encompasses a range of details, from order dates and shipping modes to customer segments and product categories. Our analysis revealed key sales trends, highlighting the most and least popular products 🏆📉, and provided a detailed breakdown of sales by region, customer segment, and shipping mode. We also examined the impact of various discount rates on sales volume, discovering crucial patterns that can help refine discount strategies 🎯. Visualizations, including bar charts, pie charts, and scatter plots, were created to illustrate these findings clearly. By leveraging Power BI for dynamic dashboards and Python for data preprocessing, we aim to provide actionable insights that drive better decision-making in the retail business. Looking ahead, we plan to integrate additional data sources and implement predictive analytics for even more comprehensive insights. 🚀
